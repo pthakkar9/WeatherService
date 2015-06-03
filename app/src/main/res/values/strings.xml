@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Weather Service</string>
+    <string name="action_settings">Settings</string>
+    <string name="stringEnterLocation">Enter Location Here</string>
+    <string name="stringAsyncButton">Async</string>
+    <string name="stringSyncButton">Sync</string>
+    <string name="stringWeatherOutput">Weather data will be displayed here</string>
+    <string name="stringHint">Columbus,USA</string>
+</resources>
